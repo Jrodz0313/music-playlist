@@ -39,6 +39,8 @@ No installation is requried but here is the deployed link:
 ## Usage
 To use the web application, simply use the search bar by entering a song title or an artist name then hit enter. The page will then load a list of sings in the Deezer column and the Itunes column for the user to listen to previews of the songs. Based on the songs that the user likes, they can drag and drop their favorite songs into the playlist column where it will save in locale storage. To drag the songs and drop them into the playlist column, the user will drag the song card directly to where it says "Your Playlist" in green text. The user can then continue to search for more songs and continue to add them to their playlist. If they do want a song in their playlist anymore, they can click on the remove button under the song and the song will be removed from their playlist. 
 
+Preview of how the web application works: [Music Playlist.webm](https://user-images.githubusercontent.com/114444226/204420866-6c464e4d-76bf-4f0e-969e-23cce80818dd.webm)
+
 Here are some screenshots to see how the application is used:
 
 ## Credits/Collaborators
